@@ -1,3 +1,5 @@
+# Styles
+
 ## Colors
 
 - black: #000000
@@ -16,7 +18,7 @@
 
 - Font Awesome: https://use.fontawesome.com/releases/v5.0.12/css/all.css
 
-## Fonts:
+## Fonts
 
 - nyt-franklin, helvetica, arial, sans-serif
 - arial, helvetica, sans-serif
@@ -28,9 +30,11 @@ Font size: 12 pixels
 Font is black, nyt-franklin, helvetica, arial, sans-serif
 
 Anchor tags (a tags):
+
 - Hover: has an underline for its text decoration
 
 Buttons:
+
 - background color: light blue
 - background color hover: blue
 - border has a radius of 3 pixels
@@ -42,11 +46,13 @@ Buttons:
 - background color transitions on hover over a duration or .3 seconds
 
 Header 1:
+
 - bottom margin of 10 pixels
 - bottom padding of 10 pixels
 - font size is 28 pixels, style is italic, and weight is bold
 
 Paragraphs:
+
 - line height of 16 pixels
 
 ## Measurements
